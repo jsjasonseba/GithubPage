@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.03e55420.chunk.css",
-    "main.js": "/static/js/main.af80b220.chunk.js",
-    "main.js.map": "/static/js/main.af80b220.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.30ce238a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.30ce238a.js.map",
-    "static/js/2.936aa732.chunk.js": "/static/js/2.936aa732.chunk.js",
-    "static/js/2.936aa732.chunk.js.map": "/static/js/2.936aa732.chunk.js.map",
-    "static/js/3.ab8f0e14.chunk.js": "/static/js/3.ab8f0e14.chunk.js",
-    "static/js/3.ab8f0e14.chunk.js.map": "/static/js/3.ab8f0e14.chunk.js.map",
+    "main.css": "/static/css/main.336b800b.chunk.css",
+    "main.js": "/static/js/main.27ed475f.chunk.js",
+    "main.js.map": "/static/js/main.27ed475f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8fc06dcb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8fc06dcb.js.map",
+    "static/js/2.a800a05f.chunk.js": "/static/js/2.a800a05f.chunk.js",
+    "static/js/2.a800a05f.chunk.js.map": "/static/js/2.a800a05f.chunk.js.map",
+    "static/js/3.eab20507.chunk.js": "/static/js/3.eab20507.chunk.js",
+    "static/js/3.eab20507.chunk.js.map": "/static/js/3.eab20507.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.03e55420.chunk.css.map": "/static/css/main.03e55420.chunk.css.map",
-    "static/js/2.936aa732.chunk.js.LICENSE.txt": "/static/js/2.936aa732.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "static/css/main.336b800b.chunk.css.map": "/static/css/main.336b800b.chunk.css.map",
+    "static/js/2.a800a05f.chunk.js.LICENSE.txt": "/static/js/2.a800a05f.chunk.js.LICENSE.txt",
+    "static/media/ICPC_International_Collegiate_Programming_Contest_logo,_Aug_2018.792e48ed.png": "/static/media/ICPC_International_Collegiate_Programming_Contest_logo,_Aug_2018.792e48ed.png",
+    "static/media/Main__Logo-47b2ff86e295cc31bdbc8205b64f2c94.47b2ff86.png": "/static/media/Main__Logo-47b2ff86e295cc31bdbc8205b64f2c94.47b2ff86.png",
+    "static/media/delluna.d61ae1d8.png": "/static/media/delluna.d61ae1d8.png",
+    "static/media/graduation-hat-and-diploma.0ba345d7.png": "/static/media/graduation-hat-and-diploma.0ba345d7.png",
+    "static/media/html5.816e39fe.png": "/static/media/html5.816e39fe.png",
+    "static/media/java.f663f931.png": "/static/media/java.f663f931.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/newscate.66b1d354.png": "/static/media/newscate.66b1d354.png",
+    "static/media/profile.b1f9d36b.jpg": "/static/media/profile.b1f9d36b.jpg",
+    "static/media/react.63515356.png": "/static/media/react.63515356.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.30ce238a.js",
-    "static/js/2.936aa732.chunk.js",
-    "static/css/main.03e55420.chunk.css",
-    "static/js/main.af80b220.chunk.js"
+    "static/js/runtime-main.8fc06dcb.js",
+    "static/js/2.a800a05f.chunk.js",
+    "static/css/main.336b800b.chunk.css",
+    "static/js/main.27ed475f.chunk.js"
   ]
 }
