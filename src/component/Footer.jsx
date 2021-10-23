@@ -9,7 +9,7 @@ function Footer() {
             <div className="flex flex-col justify-between">
                 <div className="flex flex-row justify-center">
                     <a href="https://github.com/jsjasonseba/" className="w-16 pt-4"><FontAwesomeIcon icon={faGithub} className='fa-2x text-white'/></a>
-                    <a href="https://www.linkedin.com/in/jason-sebastian-822935212/" className="w-16 pl-8 pt-4"><FontAwesomeIcon icon={faLinkedin} className='fa-2x text-white'/></a>
+                    <a href="https://www.linkedin.com/in/jason-sebastian-kusuma-822935212/" className="w-16 pl-8 pt-4"><FontAwesomeIcon icon={faLinkedin} className='fa-2x text-white'/></a>
                 </div>
                 
                 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> and <a href="https://iconscout.com">Iconscout</a></div>

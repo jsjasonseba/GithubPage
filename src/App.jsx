@@ -1,11 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
-import NavBar from './component/NavBar.jsx';
 import About from './component/About.jsx';
 import Project from './component/Project.jsx';
 import AchievementAwards from './component/AchievementAwards.jsx';
 import Footer from './component/Footer.jsx'
 import ProgSkill from './component/ProgSkill.jsx';
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faLinkedin } from "@fortawesome/free-brands-svg-icons"
+
+const TITLE = 'Jason Sebastian Kusuma'
+
 
 function App() {
   return (
@@ -14,11 +17,24 @@ function App() {
       justify-evenly sticky">
           <a href="#about">About</a>
           <a href='#projects'>Projects</a>
-          <a href="#award">Achievements and Awards</a>
-          <a href="#skill">Programming Skill</a>
+          <a href="#award">Achievements</a>
+          <a href="#skill">Skill</a>
       </div>
-      <div className="flex items-center justify-center py-24">
+      <div className="flex items-center justify-center py-24 flex-col">
         <About />
+        <a href="https://www.linkedin.com/in/jason-sebastian-kusuma-822935212/" className="pt-4">
+            <div className="flex flex-row p-5 bg-white rounded-lg filter drop-shadow-lg
+            flex flex-row items-center bg-gray-200
+            transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+                <FontAwesomeIcon icon={faLinkedin} className='fa-5x'/>
+                <div className='pl-8 pr-8'>
+                    <div className='font-semibold'>
+                        Check out my LinkedIn
+                    </div>
+                    <div className='font-bold underline'>Jason Sebastian Kusuma</div> 
+                </div>
+            </div>
+        </a>
       </div>
       <div className='bg-gray-100 pt-2 pb-12'> 
         <div id="projects" className="-top-12 h-2 w-2 relative"></div>

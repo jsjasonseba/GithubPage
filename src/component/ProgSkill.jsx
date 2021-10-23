@@ -42,12 +42,12 @@ function ProgSkill() {
     const prog7 = {
         urlImage: laravelIcon,
         language: 'Laravel',
-        skill: ['Back-end Web Development'],
+        skill: ['Full Stack Web Development'],
     }
     return (
         <div>
             <div className=" flex flex-col items-center">
-                <h1 className="font-bold text-3xl p-5">Programming SKills</h1>
+                <h1 className="font-bold text-3xl p-5">Programming Skills</h1>
                 
                 <div className='flex flex-wrap justify-evenly'>
                     <ProgSkillComponent info={prog6} className='m-2'/>
